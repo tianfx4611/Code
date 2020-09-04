@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\开发技术管理\\MySystem\\SystemManager\\SystemObject\\SystemObject.csproj": {}
+    "G:\\MyCode\\SystemManager\\SystemObject\\SystemObject.csproj": {}
   },
   "projects": {
-    "F:\\开发技术管理\\MySystem\\SystemManager\\SystemObject\\SystemObject.csproj": {
+    "G:\\MyCode\\SystemManager\\SystemObject\\SystemObject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\开发技术管理\\MySystem\\SystemManager\\SystemObject\\SystemObject.csproj",
+        "projectUniqueName": "G:\\MyCode\\SystemManager\\SystemObject\\SystemObject.csproj",
         "projectName": "SystemObject",
-        "projectPath": "F:\\开发技术管理\\MySystem\\SystemManager\\SystemObject\\SystemObject.csproj",
+        "projectPath": "G:\\MyCode\\SystemManager\\SystemObject\\SystemObject.csproj",
         "packagesPath": "C:\\Users\\TFX\\.nuget\\packages\\",
-        "outputPath": "F:\\开发技术管理\\MySystem\\SystemManager\\SystemObject\\obj\\",
+        "outputPath": "G:\\MyCode\\SystemManager\\SystemObject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
